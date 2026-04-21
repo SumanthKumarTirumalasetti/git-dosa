@@ -10,3 +10,4 @@
 
 # Egg dosa
 * Dosa batter added
+* 1 egg with light karam
